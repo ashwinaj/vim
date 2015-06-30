@@ -1,0 +1,9 @@
+To install vim settings on a machine:
+1. Register the ssh keys of the new machine: https://help.github.com/articles/generating-ssh-keys/
+2. Once ssh is setup:
+    cd ~
+    git clone http://github.com/ashwinaj/dotvim.git ~/.vim
+    ln -s ~/.vim/vimrc ~/.vimrc
+    cd ~/.vim
+    git submodule init
+    git submodule update

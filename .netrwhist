@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home/aaj/Downloads/DAT-2245/rts62-lc-2015-03-20-07-56-23'
+let g:netrw_dirhist_2='/home/aaj/.ssh'
